@@ -18,8 +18,6 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 **Check out the interactive Power BI dashboard below to explore the insights and findings visually:**
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Viraj%20Bhutada-gold?logo=powerbi&style=flat&logoColor=white)](https://app.powerbi.com/links/x_BEXo8_4A?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare&bookmarkGuid=ef4fde42-5ed7-4a3a-b773-200d74946dec)
-
 ---
 
 ## Key Features
@@ -154,8 +152,3 @@ The U.S. Healthcare Industry Dynamics project for 2019-2020 offers a comprehensi
 This project underscores the importance of leveraging data analytics in the healthcare sector. Offering detailed insights into various facets of the industry empowers stakeholders to make data-driven decisions, ultimately enhancing the quality of care and operational efficiency. The U.S. Healthcare Industry Dynamics project stands as a testament to the transformative power of data in understanding and improving the healthcare landscape.
 
 ---
-
-### Connect With Me
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
-
